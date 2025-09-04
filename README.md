@@ -130,7 +130,7 @@ The dataset originates from an Excel workbook and has been split into the follow
 ## 📬 Contact
 
 For queries or collaboration:  
-**Anshuman Saikia**  
+**Ajay Singh**  
 📧 `sonowalmonalisha24@gmail.com`  
 🔗 *(Add GitHub or LinkedIn if available)*
 
